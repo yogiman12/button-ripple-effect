@@ -1,2 +1,2 @@
 # button-ripple-effect
-tasks for web dev lecture in BST collage
+Tasks for web dev lecture in BST collage.
