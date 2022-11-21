@@ -30,5 +30,6 @@ body{
     transition: width 0.5s, height 0.5s;
 }
 .btn:hover::before{
-    
+    width: 50vh;
+    height: 50vh;
 }
