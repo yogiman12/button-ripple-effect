@@ -16,6 +16,7 @@ body{
     text-decoration: none;
     color: black;
     position: relative;
+    overflow: hidden;
 }
 .btn::before{
     content: "";
